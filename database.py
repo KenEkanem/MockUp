@@ -1,10 +1,3 @@
-# create record
-# update record
-# read record
-# delete record
-# CRUD
-
-# find user
 
 import os
 import validation
